@@ -23,8 +23,8 @@ QuickStart:
 
 Output:
 
-    Route53 to HostedZone ELB to Instances Lookup Tool
-    FQDN: x.sub.example.com.
+    Route53 to ELB Instances Lookup Tool
+    using fqdn x.sub.example.com.
     found zone Z21AQR372GP4VT for sub.example.com.
     ---------------------------------
     FQDN:      x.sub.example.com.
